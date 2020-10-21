@@ -1,4 +1,6 @@
 const a =1
 const b=2
 console.log(a+b)
-//equal 3
+
+console.log('Hacktoberfest')
+
